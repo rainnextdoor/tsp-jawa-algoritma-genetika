@@ -52,7 +52,7 @@ Gambar: `results/figures/konvergensi.png` dan `results/figures/rute_terbaik.png`
 Butuh Python 3.10 atau lebih baru. Uji dilakukan pada Python 3.13.
 
 ```bash
-git clone https://github.com/USERNAME/tsp-jawa-algoritma-genetika.git
+git clone https://github.com/rainnextdoor/tsp-jawa-algoritma-genetika.git
 cd tsp-jawa-algoritma-genetika
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
