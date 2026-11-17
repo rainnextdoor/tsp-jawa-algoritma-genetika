@@ -1,0 +1,23 @@
+{
+  "parameter_ga": {
+    "ukuran_populasi": 200,
+    "generasi": 1000,
+    "ukuran_turnamen": 5,
+    "laju_crossover": 0.9,
+    "laju_mutasi": 0.5,
+    "elit": 2,
+    "crossover": "ox"
+  },
+  "seed_awal": 0,
+  "jumlah_run": 30,
+  "panjang_rute_ga_terbaik_km": 1794.71,
+  "seed_terbaik": 1,
+  "panjang_nn_terbaik_km": 1932.14,
+  "panjang_2opt_km": 1799.0,
+  "verifikasi_12_kota": {
+    "optimal_held_karp_km": 1581.83,
+    "ga_terbaik_km": 1581.83,
+    "ga_menemukan_optimal_dari_10_run": 10
+  },
+  "waktu_total_detik": 397
+}

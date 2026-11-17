@@ -1,0 +1,6 @@
+metode,terbaik,rata2,terburuk,simpangan_baku
+Nearest Neighbor (terbaik dari 30 awal),1932.14,1932.14,1932.14,0.0
+Nearest Neighbor (rata-rata 30 awal),1932.14,2069.78,2232.52,78.54
+NN + 2-opt,1799.0,1799.0,1799.0,0.0
+GA (OX + swap),1794.71,1817.54,1858.82,18.5
+GA (PMX + swap),1828.72,2123.92,3096.76,403.17
